@@ -1,0 +1,10 @@
+.list-container{
+  word-break: break-all;
+}
+.edit{
+  cursor: pointer;
+}   
+.delete{
+  cursor: pointer;
+}
+
